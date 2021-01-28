@@ -27,11 +27,12 @@ In the design process, the FIR filters were implemented in a way to create the p
 
 Plot the original and the filtered signal using FFT.
 
-#GUI View
+# GUI View
+
 ![1qsa](https://user-images.githubusercontent.com/67249292/106099243-f03fb000-616c-11eb-8363-1db5404e57cd.PNG)
 ![asasasas](https://user-images.githubusercontent.com/67249292/106099312-0a798e00-616d-11eb-8389-659c7700101b.PNG)
 
-#Results
+# Results
 The browse button allows to access any audio file to play. The other buttons such as play, pause, resume and stop perform the operations of start, pause , continue and stop playing the audio signal.
 
 The five sliders representing the five frequency bands are used to adjust the gain of the specific frequency band i.e. boosting and attenuation of the signal at the desired frequency.
