@@ -30,6 +30,7 @@ Plot the original and the filtered signal using FFT.
 # GUI View
 
 ![1qsa](https://user-images.githubusercontent.com/67249292/106099243-f03fb000-616c-11eb-8363-1db5404e57cd.PNG)
+
 ![asasasas](https://user-images.githubusercontent.com/67249292/106099312-0a798e00-616d-11eb-8389-659c7700101b.PNG)
 
 # Results
@@ -39,4 +40,5 @@ The five sliders representing the five frequency bands are used to adjust the ga
 
 The analysis of the filtered audio signals is performed using the Fast Fourier Transform(FFT).  
 
-Demo Open folder cek/result
+# Demo 
+Open folder cek/result
