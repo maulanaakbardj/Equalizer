@@ -41,4 +41,5 @@ The five sliders representing the five frequency bands are used to adjust the ga
 The analysis of the filtered audio signals is performed using the Fast Fourier Transform(FFT).  
 
 # Demo 
-Open folder cek/result
+[result](https://github.com/maulanaakbardj/Equalizer/tree/master/result)
+
